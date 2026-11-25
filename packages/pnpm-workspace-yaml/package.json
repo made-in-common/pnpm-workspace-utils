@@ -21,13 +21,13 @@
       "url": "https://github.com/sponsors/sxzz"
     }
   ],
-  "homepage": "https://github.com/antfu/pnpm-workspace-utils#readme",
+  "homepage": "https://github.com/made-in-common/pnpm-workspace-utils#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antfu/pnpm-workspace-utils.git",
+    "url": "git+https://github.com/made-in-common/pnpm-workspace-utils.git",
     "directory": "packages/pnpm-workspace-yaml"
   },
-  "bugs": "https://github.com/antfu/pnpm-workspace-utils/issues",
+  "bugs": "https://github.com/made-in-common/pnpm-workspace-utils/issues",
   "keywords": [
     "pnpm"
   ],
